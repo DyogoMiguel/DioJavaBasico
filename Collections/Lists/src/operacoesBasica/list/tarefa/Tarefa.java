@@ -1,4 +1,4 @@
-package operacoesBasica.tarefa;
+package operacoesBasica.list.tarefa;
 
 public class Tarefa {
 

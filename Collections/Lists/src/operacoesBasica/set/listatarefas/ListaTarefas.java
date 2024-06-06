@@ -1,4 +1,4 @@
-package operacoesBasica.listatarefas;
+package operacoesBasica.set.listatarefas;
 
 import java.util.HashSet;
 import java.util.Set;
